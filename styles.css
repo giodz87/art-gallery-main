@@ -64,6 +64,10 @@ button {
   color: #fff;
   padding: 22.5px;
 }
+a {
+  color: #fff;
+  text-decoration: none;
+}
 .conteiner {
   position: relative;
   display: flex;
