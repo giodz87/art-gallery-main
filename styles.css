@@ -64,10 +64,6 @@ button {
   color: #fff;
   padding: 22.5px;
 }
-a {
-  color: #fff;
-  text-decoration: none;
-}
 .conteiner {
   position: relative;
   display: flex;
@@ -146,8 +142,8 @@ h2 {
   max-width: 90%;
   display: flex;
   flex-direction: column;
-  align-items: baseline;
-  justify-content: center;
+  align-items: center;
+  justify-content: space-between;
   padding-bottom: 16px;
 }
 h3 {
@@ -353,12 +349,12 @@ footer {
     max-width: 38.3%;
     position: absolute;
     bottom: 0;
+    left: 50%;
     height: 52vh;
     padding: 30px;
     flex-direction: column;
     align-items: start;
     justify-content: space-around;
-    left: 49.8%;
   }
 }
 /*///////////////////////////////////////////////////////////////////////////////////////////////////
